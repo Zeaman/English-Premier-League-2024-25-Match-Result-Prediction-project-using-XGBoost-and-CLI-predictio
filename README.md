@@ -114,12 +114,12 @@ pip install pandas matplotlib scikit-learn xgboost joblib
 Feature		
 | Feature               | Status        | Notes  | 
 |-----------------------|-----------    | ------ |
-|Web UI (EXE/Flask)	    |🔄 Ongoing	    | User-friendly input + prediction interface|
-|Probability Output	    |🔄 Planned     | Add model.predict_proba() to show win/draw/loss confidence|
-|Batch CSV Predictions	|🔄 Planned	    | Load match data CSV → output results in bulk|
-|Hyperparameter Tuning	|⏳ Todo	      | Improve accuracy with GridSearchCV or Optuna|
-|League Generalization	|⏳ Todo	      | Extend model to support multiple leagues (La Liga, Serie A, etc.)|
-|REST API	              |🔄 Planned	    | Make predictions over HTTP requests (FastAPI or Flask-based API)|
-|Dockerization	        |⏳ Todo	      | Containerize for reproducibility and deployment|
+|`Web UI (EXE/Flask)`	    |🔄 Ongoing	    | User-friendly input + prediction interface|
+|`Probability Output`	    |🔄 Planned     | Add model.predict_proba() to show win/draw/loss confidence|
+|`Batch CSV Predictions`	|🔄 Planned	    | Load match data CSV → output results in bulk|
+|`Hyperparameter Tuning`	|⏳ Todo	      | Improve accuracy with GridSearchCV or Optuna|
+|`League Generalization`	|⏳ Todo	      | Extend model to support multiple leagues (La Liga, Serie A, etc.)|
+|`REST API`	              |🔄 Planned	    | Make predictions over HTTP requests (FastAPI or Flask-based API)|
+|`Dockerization`	        |⏳ Todo	      | Containerize for reproducibility and deployment|
 
 
