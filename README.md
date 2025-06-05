@@ -1,6 +1,3 @@
-Here's the corrected and complete `README.md` in a single code cell:
-
-```markdown
 # ⚽ EPL 2024/25 Match Result Predictor (XGBoost)
 
 > Skip this if you're only using the CLI predictor.
